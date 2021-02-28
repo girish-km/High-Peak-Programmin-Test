@@ -6,9 +6,6 @@ Name of the problem statement file: problem_statement - goodie_dilemma.txt
 Name of the video file: video.mp4
 
 
-
-
-
-
-
 Instructions to run: python code.py
+
+
